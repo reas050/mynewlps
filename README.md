@@ -1,5 +1,5 @@
-# This design is created usin Coding in HTML and (S)CSS
+# This is created using Coding in HTML and (S)CSS
 
 ---
 
-Tutorial Design Course HTML/(S)CSS
+Tutorial followed by DesignCourse HTML/(S)CSS and is fully responsive.
